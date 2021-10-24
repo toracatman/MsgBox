@@ -1,7 +1,7 @@
 Usage: MsgBox "Message" "Title" Type
 
-Message   Message Box Message. Can use \n for new line, \t for tab, \" for double quote. Need "".
-Title     Message Box Title. Can use \" for double quote. Need "".
+Message   Message Box Message. Can use \n for New Line, \t for Tab, \" for Double Quote and \\ for Backslash. Need "".
+Title     Message Box Title. Can use \" for Double Quote and \\ for Backslash. Need "".
 Type      Message Box Buttons and a Icon. This is 2 Digits number.
 
 Left Digit is a Icon.
