@@ -20,4 +20,4 @@ Right Digit is Buttons.
 3: Yes, No and Cancel
 4: Yes and No
 5: Retry and Cancel
-6: Retry, Cancel and Continue
+6: Cancel, Retry and Continue
